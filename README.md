@@ -1,24 +1,24 @@
-# Electron Example
+# Projeto Brasil TV Agora - Versão Desktop
 
 <p>
   <!-- Web -->
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-> 🚨 Electron support is an experimental community project, so the workflow is suboptimal and subject to breaking changes. If you find bugs please report them on [expo/expo-electron-adapter](https://github.com/expo/expo-electron-adapter/issues).
+[Electron][electron] é uma framework javascript para a criação de aplicativos desktop que rodam em um Wrapper do Chromium. Ele, juntamente ao Expo, permitem que apps react-native sejam executados de forma nativa tanto no Windows, quanto no Mac e Linux!
 
-[Electron][electron] is a framework for creating desktop apps that run in a Chromium wrapper. Using Expo with Electron will enable you to use your existing components to build OSX, Windows, and Linux apps.
+## 🚀 Como rodar o projeto
 
-For more info [check out the latest docs!](https://github.com/expo/expo/blob/master/docs/pages/guides/using-electron.md)
+- Execute `yarn` ou `npm install`
+- Execute `yarn expo-electron start` ou `yarn desktop`
+- Espere até que a build web termine e o Projeto seja iniciado.
 
-## 🚀 How to use
+## 📝 Ferramentas Utilizadas
 
-- Run `yarn` or `npm install`
-- Run `yarn expo-electron start`
-- Wait until the web build is finished and Electron is started.
-
-## 📝 Notes
-
-- [Known issue with app entry](https://github.com/expo/expo-cli/issues/1385)
-
-[electron]: https://www.electronjs.org/
+- React-native
+- Expo
+- Electron
+- Typescript
+- M3U8 File Parser
+- React Navigation
+- React-native Paper
