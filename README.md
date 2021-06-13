@@ -5,7 +5,7 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-[Electron][electron] é uma framework javascript para a criação de aplicativos desktop que rodam em um Wrapper do Chromium. Ele, juntamente ao Expo, permitem que apps react-native sejam executados de forma nativa tanto no Windows, quanto no Mac e Linux!
+Electron é um framework javascript para a criação de aplicativos desktop que rodam em um Wrapper do Chromium. Ele, juntamente ao Expo, permitem que apps react-native sejam executados de forma nativa tanto no Windows, quanto no Mac e Linux!
 
 ## 🚀 Como rodar o projeto
 
