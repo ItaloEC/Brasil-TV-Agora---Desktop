@@ -5,13 +5,14 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-Electron é um framework javascript para a criação de aplicativos desktop que rodam em um Wrapper do Chromium. Ele, juntamente ao Expo, permitem que apps react-native sejam executados de forma nativa tanto no Windows, quanto no Mac e Linux!
+Electron é um framework javascript para a criação de aplicativos desktop que rodam em um Wrapper do Chromium. Ele, juntamente ao Expo, permite que apps react-native sejam executados de forma nativa tanto no Windows, quanto Mac e Linux!
 
-## 🚀 Como rodar o projeto
+## 🚀 Como executar o projeto
 
-- Execute `yarn` ou `npm install`
-- Execute `yarn expo-electron start` ou `yarn desktop`
-- Espere até que a build web termine e o Projeto seja iniciado.
+- Instale o node no seu sistema https://nodejs.org/en/
+- Dentro da pasta do projeto, execute `yarn` ou `npm install`
+- Em seguida, execute `yarn expo-electron start` ou `yarn desktop`
+- Espere alguns instantes enquanto a build web termina, e o projeto seja iniciado!
 
 ## 📝 Ferramentas Utilizadas
 
