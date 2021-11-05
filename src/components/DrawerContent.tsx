@@ -75,7 +75,7 @@ function DrawerContent(props) {
                 )}
                 label={title}
                 onPress={() => {
-                  props.navigation.navigate("Feed", { canal: canal });
+                  props.navigation.navigate("Player", { canal: canal });
                 }}
               />
             );
